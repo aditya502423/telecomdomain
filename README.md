@@ -17,5 +17,6 @@ Key Insights Delivered:
 Performance Gains: 5G networks show up to 5x improvement in speed and lower latency.
 Revenue Trends: Notable increase in ARPU and postpaid plan subscriptions.
 
+Project Demo: https://github.com/aditya502423/telecomdomain/blob/main/telecom.png
 
 
